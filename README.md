@@ -16,6 +16,9 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
   - [Previous Venues](#2012-2016)
   - [arXiv](#arxiv)
 
+## Awesome Surveys
+1. **A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions.** *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang.* 2020 [paper](https://arxiv.org/pdf/2006.02903.pdf)
+
 ## Awesome Blogs
 - [AutoML info](http://automl.chalearn.org/) and [AutoML Freiburg-Hannover](https://www.automl.org/)
 - [What’s the deal with Neural Architecture Search?](https://determined.ai/blog/neural-architecture-search/)
